@@ -19,4 +19,10 @@ assignees: ''
 * Preview Next Week's Slides
   - [ ] Done
 
+* Githut Updates
+  - Create This weeks Check List
+    - [ ] Done
+  - Complete This weeks Check List
+    - [ ] Done
+
 * Other tasks
