@@ -16,4 +16,7 @@ assignees: ''
   ...
   - [ ] Done
 
+* Preview Next Week's Slides
+  - [ ] Done
+
 * Other tasks
