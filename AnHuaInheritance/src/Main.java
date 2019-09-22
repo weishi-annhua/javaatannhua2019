@@ -1,5 +1,5 @@
-public class Tester {
-	public Tester() {
+public class Main {
+	public Main() {
 	}
 	public static void main(String[] args) {
 		CheckingAccount myChecking = new CheckingAccount(100);
